@@ -17,4 +17,4 @@ source "$ZDOTDIR/prompt.zsh"
 
 source "$ZDOTDIR/colored-man-pages.zsh"
 
-source "$ZDOTDIR/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh"
+source "$ZDOTDIR/syntax-highlighting.zsh"
