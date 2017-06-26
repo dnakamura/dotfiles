@@ -19,11 +19,11 @@ fi
 man() {
 	#LESS_TERMCAP_so=$(printf "\e[1;44;33m") \
 	env \
-		LESS_TERMCAP_md="$(tput bold; tput setaf 4)" \
+		LESS_TERMCAP_md="$(tput bold; tput setaf $BASE0D)" \
 		LESS_TERMCAP_me="$(tput sgr0)" \
 		LESS_TERMCAP_se="$(tput sgr0)" \
 		LESS_TERMCAP_ue="$(tput sgr0)" \
-		LESS_TERMCAP_us="$(tput setaf 5; tput smul)" \
+		LESS_TERMCAP_us="$(tput setaf $BASE0E; tput smul)" \
 		PAGER="${commands[less]:-$PAGER}" \
 		_NROFF_U=1 \
 		PATH="$HOME/bin:$PATH" \

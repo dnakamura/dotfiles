@@ -11,7 +11,9 @@ source "$ZDOTDIR/aliases.zsh"
 source "$ZDOTDIR/setopt.zsh"
 source "$ZDOTDIR/completions.zsh"
 #zstyle :compinstall filename "$ZDOTDIR/.zshrc" 
+source "$ZDOTDIR/base16.zsh"
 source "$ZDOTDIR/prompt.zsh"
+
 
 source "$ZDOTDIR/colored-man-pages.zsh"
 
