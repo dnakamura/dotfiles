@@ -12,5 +12,5 @@ if [ -f ~/.zshrc ]; then
 	echo "~/.zshrc already exists. Please remove before running this script."
 	exit -1
 fi
-ln -s ~/.zshrc $ZSH_DOTFILES_DIR/.zshrc
+ln -s $ZSH_DOTFILES_DIR/.zshrc ~/.zshrc
 
