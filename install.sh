@@ -13,4 +13,4 @@ install_component(){
 	fi
 }
 
-find $DOTFILES_DIR -mindepth 1 -maxdepth 1 -type d \! -name .git
+find $DOTFILES_DIR -mindepth 1 -maxdepth 1 -type d \! -name .git| while read component; do install_component $component; done
