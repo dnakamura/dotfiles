@@ -1,0 +1,18 @@
+
+call plug#begin('~/.vim/plugged')
+Plug '~/.vim/plugins/vim-airline'
+Plug '~/.vim/plugins/vim-airline-themes'
+call plug#end()
+
+" set nocompatable
+set laststatus=2    "Make vim-airline work
+syntax enable
+set tabstop=4
+set autoindent
+set backspace=indent,eol,start
+set complete-=i
+set smarttab
+
+set shiftwidth=4
+
+
