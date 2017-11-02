@@ -1,6 +1,6 @@
 #!/bin/sh
 
-DOTFILES_DIR=$(dirname $(realpath $0))
+DOTFILES_DIR=$(dirname $(readlink -f -n $0))
 
 install_component(){
 	local component_name
