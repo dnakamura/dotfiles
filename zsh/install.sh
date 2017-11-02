@@ -1,16 +1,5 @@
 #!/bin/sh
-ZSH_DOTFILES_DIR=$(dirname $(realpath $0))
+ZSH_DOTFILES_DIR=$(dirname $(readlink -f -n $0))
+. "$ZSH_DOTFILES_DIR/../install_lib.sh"
 
-if [ -f ~/.zshrc ]; then
-	if [ -h ~/.zshrc ]; then
-		ZSHRC_PATH=$(readlink -f -n ~/.zshrc)
-		if [ "$ZSHRC_PATH" -eq "$ZSH_DOTFILES_DIR/.zshrc" ]; then
-			# Symlink already exists, and it good
-			exit
-		fi
-	fi
-	echo "~/.zshrc already exists. Please remove before running this script."
-	exit -1
-fi
-ln -s $ZSH_DOTFILES_DIR/.zshrc ~/.zshrc
-
+dotfiles_install "$ZSH_DOTFILES_DIR/zshrc" ~/.zshrc
