@@ -7,6 +7,10 @@ setopt autocd
 bindkey -e
 # End of lines configured by zsh-newuser-install
 
+
+# Needed for bash on windows
+umask 022
+
 source "$ZDOTDIR/aliases.zsh"
 source "$ZDOTDIR/setopt.zsh"
 source "$ZDOTDIR/completions.zsh"
