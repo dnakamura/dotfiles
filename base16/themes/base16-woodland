@@ -1,0 +1,18 @@
+# Woodland by Jay Cornwall (https:&#x2F;&#x2F;jcornwall.com)
+define_base16 BASE00 23 1e 18
+define_base16 BASE01 30 2b 25
+define_base16 BASE02 48 41 3a
+define_base16 BASE03 9d 8b 70
+define_base16 BASE04 b4 a4 90
+define_base16 BASE05 ca bc b1
+define_base16 BASE06 d7 c8 bc
+define_base16 BASE07 e4 d4 c8
+define_base16 BASE08 d3 5c 5c
+define_base16 BASE09 d3 5c 5c
+define_base16 BASE0A e0 ac 16
+define_base16 BASE0B b7 ba 53
+define_base16 BASE0C 6e b9 58
+define_base16 BASE0D 88 a4 d3
+define_base16 BASE0E bb 90 e2
+define_base16 BASE0F b4 93 68
+

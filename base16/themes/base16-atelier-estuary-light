@@ -1,0 +1,18 @@
+# Atelier Estuary Light by Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
+define_base16 BASE00 f4 f3 ec
+define_base16 BASE01 e7 e6 df
+define_base16 BASE02 92 91 81
+define_base16 BASE03 87 85 73
+define_base16 BASE04 6c 6b 5a
+define_base16 BASE05 5f 5e 4e
+define_base16 BASE06 30 2f 27
+define_base16 BASE07 22 22 1b
+define_base16 BASE08 ba 62 36
+define_base16 BASE09 ba 62 36
+define_base16 BASE0A a5 98 d
+define_base16 BASE0B 7d 97 26
+define_base16 BASE0C 5b 9d 48
+define_base16 BASE0D 36 a1 66
+define_base16 BASE0E 5f 91 82
+define_base16 BASE0F 9d 6c 7c
+

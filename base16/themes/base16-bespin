@@ -1,0 +1,18 @@
+# Bespin by Jan T. Sott
+define_base16 BASE00 28 21 1c
+define_base16 BASE01 36 31 2e
+define_base16 BASE02 5e 5d 5c
+define_base16 BASE03 66 66 66
+define_base16 BASE04 79 79 77
+define_base16 BASE05 8a 89 86
+define_base16 BASE06 9d 9b 97
+define_base16 BASE07 ba ae 9e
+define_base16 BASE08 cf 6a 4c
+define_base16 BASE09 cf 6a 4c
+define_base16 BASE0A f9 ee 98
+define_base16 BASE0B 54 be d
+define_base16 BASE0C af c4 db
+define_base16 BASE0D 5e a6 ea
+define_base16 BASE0E 9b 85 9d
+define_base16 BASE0F 93 71 21
+

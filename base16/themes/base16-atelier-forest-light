@@ -1,0 +1,18 @@
+# Atelier Forest Light by Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
+define_base16 BASE00 f1 ef ee
+define_base16 BASE01 e6 e2 e0
+define_base16 BASE02 a8 a1 9f
+define_base16 BASE03 9c 94 91
+define_base16 BASE04 76 6e 6b
+define_base16 BASE05 68 61 5e
+define_base16 BASE06 2c 24 21
+define_base16 BASE07 1b 19 18
+define_base16 BASE08 f2 2c 40
+define_base16 BASE09 f2 2c 40
+define_base16 BASE0A c3 84 18
+define_base16 BASE0B 7b 97 26
+define_base16 BASE0C 3d 97 b8
+define_base16 BASE0D 40 7e e7
+define_base16 BASE0E 66 66 ea
+define_base16 BASE0F c3 3f f3
+

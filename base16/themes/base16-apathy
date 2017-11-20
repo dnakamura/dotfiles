@@ -1,0 +1,18 @@
+# Apathy by Jannik Siebert (https:&#x2F;&#x2F;github.com&#x2F;janniks)
+define_base16 BASE00 3 1a 16
+define_base16 BASE01 b 34 2d
+define_base16 BASE02 18 4e 45
+define_base16 BASE03 2b 68 5e
+define_base16 BASE04 5f 9c 92
+define_base16 BASE05 81 b5 ac
+define_base16 BASE06 a7 ce c8
+define_base16 BASE07 d2 e7 e4
+define_base16 BASE08 3e 96 88
+define_base16 BASE09 3e 96 88
+define_base16 BASE0A 3e 4c 96
+define_base16 BASE0B 88 3e 96
+define_base16 BASE0C 96 3e 4c
+define_base16 BASE0D 96 88 3e
+define_base16 BASE0E 4c 96 3e
+define_base16 BASE0F 3e 96 5b
+

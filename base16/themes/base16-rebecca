@@ -1,0 +1,18 @@
+# Rebecca by Victor Borja (http:&#x2F;&#x2F;github.com&#x2F;vic) based on Rebecca Theme (http:&#x2F;&#x2F;github.com&#x2F;vic&#x2F;rebecca-theme)
+define_base16 BASE00 29 2a 44
+define_base16 BASE01 66 33 99
+define_base16 BASE02 38 3a 62
+define_base16 BASE03 66 66 99
+define_base16 BASE04 a0 a0 c5
+define_base16 BASE05 f1 ef f8
+define_base16 BASE06 cc cc ff
+define_base16 BASE07 53 49 5d
+define_base16 BASE08 a0 a0 c5
+define_base16 BASE09 a0 a0 c5
+define_base16 BASE0A ae 81 ff
+define_base16 BASE0B 6d fe df
+define_base16 BASE0C 8e ae e0
+define_base16 BASE0D 2d e0 a7
+define_base16 BASE0E 7a a5 ff
+define_base16 BASE0F ff 79 c6
+

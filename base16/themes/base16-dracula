@@ -1,0 +1,18 @@
+# Dracula by Mike Barkmin (http:&#x2F;&#x2F;github.com&#x2F;mikebarkmin) based on Dracula Theme (http:&#x2F;&#x2F;github.com&#x2F;dracula)
+define_base16 BASE00 28 29 36
+define_base16 BASE01 3a 3c 4e
+define_base16 BASE02 4d 4f 68
+define_base16 BASE03 62 64 83
+define_base16 BASE04 62 d6 e8
+define_base16 BASE05 e9 e9 f4
+define_base16 BASE06 f1 f2 f8
+define_base16 BASE07 f7 f7 fb
+define_base16 BASE08 ea 51 b2
+define_base16 BASE09 ea 51 b2
+define_base16 BASE0A 0 f7 69
+define_base16 BASE0B eb ff 87
+define_base16 BASE0C a1 ef e4
+define_base16 BASE0D 62 d6 e8
+define_base16 BASE0E b4 5b cf
+define_base16 BASE0F 0 f7 69
+

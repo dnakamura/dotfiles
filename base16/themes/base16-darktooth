@@ -1,0 +1,18 @@
+# Darktooth by Jason Milkins (https:&#x2F;&#x2F;github.com&#x2F;jasonm23)
+define_base16 BASE00 1d 20 21
+define_base16 BASE01 32 30 2f
+define_base16 BASE02 50 49 45
+define_base16 BASE03 66 5c 54
+define_base16 BASE04 92 83 74
+define_base16 BASE05 a8 99 84
+define_base16 BASE06 d5 c4 a1
+define_base16 BASE07 fd f4 c1
+define_base16 BASE08 fb 54 3f
+define_base16 BASE09 fb 54 3f
+define_base16 BASE0A fa c0 3b
+define_base16 BASE0B 95 c0 85
+define_base16 BASE0C 8b a5 9b
+define_base16 BASE0D d 66 78
+define_base16 BASE0E 8f 46 73
+define_base16 BASE0F a8 73 22
+

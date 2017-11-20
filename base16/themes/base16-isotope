@@ -1,0 +1,18 @@
+# Isotope by Jan T. Sott
+define_base16 BASE00 0 0 0
+define_base16 BASE01 40 40 40
+define_base16 BASE02 60 60 60
+define_base16 BASE03 80 80 80
+define_base16 BASE04 c0 c0 c0
+define_base16 BASE05 d0 d0 d0
+define_base16 BASE06 e0 e0 e0
+define_base16 BASE07 ff ff ff
+define_base16 BASE08 ff 0 0
+define_base16 BASE09 ff 0 0
+define_base16 BASE0A ff 0 99
+define_base16 BASE0B 33 ff 0
+define_base16 BASE0C 0 ff ff
+define_base16 BASE0D 0 66 ff
+define_base16 BASE0E cc 0 ff
+define_base16 BASE0F 33 0 ff
+

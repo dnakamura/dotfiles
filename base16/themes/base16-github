@@ -1,0 +1,18 @@
+# Github by Defman21
+define_base16 BASE00 ff ff ff
+define_base16 BASE01 f5 f5 f5
+define_base16 BASE02 c8 c8 fa
+define_base16 BASE03 96 98 96
+define_base16 BASE04 e8 e8 e8
+define_base16 BASE05 33 33 33
+define_base16 BASE06 ff ff ff
+define_base16 BASE07 ff ff ff
+define_base16 BASE08 ed 6a 43
+define_base16 BASE09 ed 6a 43
+define_base16 BASE0A 79 5d a3
+define_base16 BASE0B 18 36 91
+define_base16 BASE0C 18 36 91
+define_base16 BASE0D 79 5d a3
+define_base16 BASE0E a7 1d 5d
+define_base16 BASE0F 33 33 33
+

@@ -1,0 +1,18 @@
+# Solarized Dark by Ethan Schoonover (http:&#x2F;&#x2F;ethanschoonover.com&#x2F;solarized)
+define_base16 BASE00 0 2b 36
+define_base16 BASE01 7 36 42
+define_base16 BASE02 58 6e 75
+define_base16 BASE03 65 7b 83
+define_base16 BASE04 83 94 96
+define_base16 BASE05 93 a1 a1
+define_base16 BASE06 ee e8 d5
+define_base16 BASE07 fd f6 e3
+define_base16 BASE08 dc 32 2f
+define_base16 BASE09 dc 32 2f
+define_base16 BASE0A b5 89 0
+define_base16 BASE0B 85 99 0
+define_base16 BASE0C 2a a1 98
+define_base16 BASE0D 26 8b d2
+define_base16 BASE0E 6c 71 c4
+define_base16 BASE0F d3 36 82
+

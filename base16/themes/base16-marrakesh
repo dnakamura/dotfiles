@@ -1,0 +1,18 @@
+# Marrakesh by Alexandre Gavioli (http:&#x2F;&#x2F;github.com&#x2F;Alexx2&#x2F;)
+define_base16 BASE00 20 16 2
+define_base16 BASE01 30 2e 0
+define_base16 BASE02 5f 5b 17
+define_base16 BASE03 6c 68 23
+define_base16 BASE04 86 81 3b
+define_base16 BASE05 94 8e 48
+define_base16 BASE06 cc c3 7a
+define_base16 BASE07 fa f0 a5
+define_base16 BASE08 c3 53 59
+define_base16 BASE09 c3 53 59
+define_base16 BASE0A a8 83 39
+define_base16 BASE0B 18 97 4e
+define_base16 BASE0C 75 a7 38
+define_base16 BASE0D 47 7c a1
+define_base16 BASE0E 88 68 b3
+define_base16 BASE0F b3 58 8e
+

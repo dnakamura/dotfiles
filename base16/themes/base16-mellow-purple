@@ -1,0 +1,18 @@
+# Mellow Purple by gidsi
+define_base16 BASE00 1e 5 28
+define_base16 BASE01 1a 9 2d
+define_base16 BASE02 33 13 54
+define_base16 BASE03 32 f 55
+define_base16 BASE04 87 35 82
+define_base16 BASE05 ff ee ff
+define_base16 BASE06 ff ee ff
+define_base16 BASE07 f8 c0 ff
+define_base16 BASE08 0 d9 e9
+define_base16 BASE09 0 d9 e9
+define_base16 BASE0A 95 5a e7
+define_base16 BASE0B 5 cb d
+define_base16 BASE0C b9 0 b1
+define_base16 BASE0D 55 0 68
+define_base16 BASE0E 89 91 bb
+define_base16 BASE0F 4d 6f ff
+

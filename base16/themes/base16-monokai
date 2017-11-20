@@ -1,0 +1,18 @@
+# Monokai by Wimer Hazenberg (http:&#x2F;&#x2F;www.monokai.nl)
+define_base16 BASE00 27 28 22
+define_base16 BASE01 38 38 30
+define_base16 BASE02 49 48 3e
+define_base16 BASE03 75 71 5e
+define_base16 BASE04 a5 9f 85
+define_base16 BASE05 f8 f8 f2
+define_base16 BASE06 f5 f4 f1
+define_base16 BASE07 f9 f8 f5
+define_base16 BASE08 f9 26 72
+define_base16 BASE09 f9 26 72
+define_base16 BASE0A f4 bf 75
+define_base16 BASE0B a6 e2 2e
+define_base16 BASE0C a1 ef e4
+define_base16 BASE0D 66 d9 ef
+define_base16 BASE0E ae 81 ff
+define_base16 BASE0F cc 66 33
+

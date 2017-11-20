@@ -1,0 +1,18 @@
+# Atelier Sulphurpool by Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
+define_base16 BASE00 20 27 46
+define_base16 BASE01 29 32 56
+define_base16 BASE02 5e 66 87
+define_base16 BASE03 6b 73 94
+define_base16 BASE04 89 8e a4
+define_base16 BASE05 97 9d b4
+define_base16 BASE06 df e2 f1
+define_base16 BASE07 f5 f7 ff
+define_base16 BASE08 c9 49 22
+define_base16 BASE09 c9 49 22
+define_base16 BASE0A c0 8b 30
+define_base16 BASE0B ac 97 39
+define_base16 BASE0C 22 a2 c9
+define_base16 BASE0D 3d 8f d1
+define_base16 BASE0E 66 79 cc
+define_base16 BASE0F 9c 63 7a
+

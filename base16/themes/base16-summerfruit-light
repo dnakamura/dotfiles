@@ -1,0 +1,18 @@
+# Summerfruit Light by Christopher Corley (http:&#x2F;&#x2F;christop.club&#x2F;)
+define_base16 BASE00 ff ff ff
+define_base16 BASE01 e0 e0 e0
+define_base16 BASE02 d0 d0 d0
+define_base16 BASE03 b0 b0 b0
+define_base16 BASE04 0 0 0
+define_base16 BASE05 10 10 10
+define_base16 BASE06 15 15 15
+define_base16 BASE07 20 20 20
+define_base16 BASE08 ff 0 86
+define_base16 BASE09 ff 0 86
+define_base16 BASE0A ab a8 0
+define_base16 BASE0B 0 c9 18
+define_base16 BASE0C 1f aa aa
+define_base16 BASE0D 37 77 e6
+define_base16 BASE0E ad 0 a1
+define_base16 BASE0F cc 66 33
+

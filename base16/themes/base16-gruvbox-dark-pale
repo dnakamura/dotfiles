@@ -1,0 +1,18 @@
+# Gruvbox dark, pale by Dawid Kurek (dawikur@gmail.com), morhetz (https:&#x2F;&#x2F;github.com&#x2F;morhetz&#x2F;gruvbox)
+define_base16 BASE00 26 26 26
+define_base16 BASE01 3a 3a 3a
+define_base16 BASE02 4e 4e 4e
+define_base16 BASE03 8a 8a 8a
+define_base16 BASE04 94 94 94
+define_base16 BASE05 da b9 97
+define_base16 BASE06 d5 c4 a1
+define_base16 BASE07 eb db b2
+define_base16 BASE08 d7 5f 5f
+define_base16 BASE09 d7 5f 5f
+define_base16 BASE0A ff af 0
+define_base16 BASE0B af af 0
+define_base16 BASE0C 85 ad 85
+define_base16 BASE0D 83 ad ad
+define_base16 BASE0E d4 85 ad
+define_base16 BASE0F d6 5d e
+

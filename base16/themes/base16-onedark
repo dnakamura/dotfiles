@@ -1,0 +1,18 @@
+# OneDark by Lalit Magant (http:&#x2F;&#x2F;github.com&#x2F;tilal6991)
+define_base16 BASE00 28 2c 34
+define_base16 BASE01 35 3b 45
+define_base16 BASE02 3e 44 51
+define_base16 BASE03 54 58 62
+define_base16 BASE04 56 5c 64
+define_base16 BASE05 ab b2 bf
+define_base16 BASE06 b6 bd ca
+define_base16 BASE07 c8 cc d4
+define_base16 BASE08 e0 6c 75
+define_base16 BASE09 e0 6c 75
+define_base16 BASE0A e5 c0 7b
+define_base16 BASE0B 98 c3 79
+define_base16 BASE0C 56 b6 c2
+define_base16 BASE0D 61 af ef
+define_base16 BASE0E c6 78 dd
+define_base16 BASE0F be 50 46
+

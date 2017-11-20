@@ -1,0 +1,18 @@
+# 3024 by Jan T. Sott (http:&#x2F;&#x2F;github.com&#x2F;idleberg)
+define_base16 BASE00 9 3 0
+define_base16 BASE01 3a 34 32
+define_base16 BASE02 4a 45 43
+define_base16 BASE03 5c 58 55
+define_base16 BASE04 80 7d 7c
+define_base16 BASE05 a5 a2 a2
+define_base16 BASE06 d6 d5 d4
+define_base16 BASE07 f7 f7 f7
+define_base16 BASE08 db 2d 20
+define_base16 BASE09 db 2d 20
+define_base16 BASE0A fd ed 2
+define_base16 BASE0B 1 a2 52
+define_base16 BASE0C b5 e4 f4
+define_base16 BASE0D 1 a0 e4
+define_base16 BASE0E a1 6a 94
+define_base16 BASE0F cd ab 53
+

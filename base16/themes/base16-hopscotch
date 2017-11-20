@@ -1,0 +1,18 @@
+# Hopscotch by Jan T. Sott
+define_base16 BASE00 32 29 31
+define_base16 BASE01 43 3b 42
+define_base16 BASE02 5c 54 5b
+define_base16 BASE03 79 73 79
+define_base16 BASE04 98 94 98
+define_base16 BASE05 b9 b5 b8
+define_base16 BASE06 d5 d3 d5
+define_base16 BASE07 ff ff ff
+define_base16 BASE08 dd 46 4c
+define_base16 BASE09 dd 46 4c
+define_base16 BASE0A fd cc 59
+define_base16 BASE0B 8f c1 3e
+define_base16 BASE0C 14 9b 93
+define_base16 BASE0D 12 90 bf
+define_base16 BASE0E c8 5e 7c
+define_base16 BASE0F b3 35 8
+

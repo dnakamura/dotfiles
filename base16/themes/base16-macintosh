@@ -1,0 +1,18 @@
+# Macintosh by Rebecca Bettencourt (http:&#x2F;&#x2F;www.kreativekorp.com)
+define_base16 BASE00 0 0 0
+define_base16 BASE01 40 40 40
+define_base16 BASE02 40 40 40
+define_base16 BASE03 80 80 80
+define_base16 BASE04 80 80 80
+define_base16 BASE05 c0 c0 c0
+define_base16 BASE06 c0 c0 c0
+define_base16 BASE07 ff ff ff
+define_base16 BASE08 dd 9 7
+define_base16 BASE09 dd 9 7
+define_base16 BASE0A fb f3 5
+define_base16 BASE0B 1f b7 14
+define_base16 BASE0C 2 ab ea
+define_base16 BASE0D 0 0 d3
+define_base16 BASE0E 47 0 a5
+define_base16 BASE0F 90 71 3a
+

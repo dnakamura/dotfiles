@@ -1,0 +1,18 @@
+# Atelier Seaside by Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
+define_base16 BASE00 13 15 13
+define_base16 BASE01 24 29 24
+define_base16 BASE02 5e 6e 5e
+define_base16 BASE03 68 7d 68
+define_base16 BASE04 80 99 80
+define_base16 BASE05 8c a6 8c
+define_base16 BASE06 cf e8 cf
+define_base16 BASE07 f4 fb f4
+define_base16 BASE08 e6 19 3c
+define_base16 BASE09 e6 19 3c
+define_base16 BASE0A 98 98 1b
+define_base16 BASE0B 29 a3 29
+define_base16 BASE0C 19 99 b3
+define_base16 BASE0D 3d 62 f5
+define_base16 BASE0E ad 2b ee
+define_base16 BASE0F e6 19 c3
+

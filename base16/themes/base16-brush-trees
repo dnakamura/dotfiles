@@ -1,0 +1,18 @@
+# Brush Trees by Abraham White &lt;abelincoln.white@gmail.com&gt;
+define_base16 BASE00 e3 ef ef
+define_base16 BASE01 c9 db dc
+define_base16 BASE02 b0 c5 c8
+define_base16 BASE03 98 af b5
+define_base16 BASE04 82 99 a1
+define_base16 BASE05 6d 82 8e
+define_base16 BASE06 5a 6d 7a
+define_base16 BASE07 48 58 67
+define_base16 BASE08 b3 86 86
+define_base16 BASE09 b3 86 86
+define_base16 BASE0A aa b3 86
+define_base16 BASE0B 87 b3 86
+define_base16 BASE0C 86 b3 b3
+define_base16 BASE0D 86 8c b3
+define_base16 BASE0E b3 86 b2
+define_base16 BASE0F b3 9f 9f
+

@@ -1,0 +1,18 @@
+# Gruvbox light, medium by Dawid Kurek (dawikur@gmail.com), morhetz (https:&#x2F;&#x2F;github.com&#x2F;morhetz&#x2F;gruvbox)
+define_base16 BASE00 fb f1 c7
+define_base16 BASE01 eb db b2
+define_base16 BASE02 d5 c4 a1
+define_base16 BASE03 bd ae 93
+define_base16 BASE04 66 5c 54
+define_base16 BASE05 50 49 45
+define_base16 BASE06 3c 38 36
+define_base16 BASE07 28 28 28
+define_base16 BASE08 9d 0 6
+define_base16 BASE09 9d 0 6
+define_base16 BASE0A b5 76 14
+define_base16 BASE0B 79 74 e
+define_base16 BASE0C 42 7b 58
+define_base16 BASE0D 7 66 78
+define_base16 BASE0E 8f 3f 71
+define_base16 BASE0F d6 5d e
+

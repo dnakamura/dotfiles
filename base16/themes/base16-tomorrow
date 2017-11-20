@@ -1,0 +1,18 @@
+# Tomorrow by Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
+define_base16 BASE00 ff ff ff
+define_base16 BASE01 e0 e0 e0
+define_base16 BASE02 d6 d6 d6
+define_base16 BASE03 8e 90 8c
+define_base16 BASE04 96 98 96
+define_base16 BASE05 4d 4d 4c
+define_base16 BASE06 28 2a 2e
+define_base16 BASE07 1d 1f 21
+define_base16 BASE08 c8 28 29
+define_base16 BASE09 c8 28 29
+define_base16 BASE0A ea b7 0
+define_base16 BASE0B 71 8c 0
+define_base16 BASE0C 3e 99 9f
+define_base16 BASE0D 42 71 ae
+define_base16 BASE0E 89 59 a8
+define_base16 BASE0F a3 68 5a
+

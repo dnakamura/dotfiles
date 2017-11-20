@@ -1,0 +1,18 @@
+# Atelier Heath by Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
+define_base16 BASE00 1b 18 1b
+define_base16 BASE01 29 23 29
+define_base16 BASE02 69 5d 69
+define_base16 BASE03 77 69 77
+define_base16 BASE04 9e 8f 9e
+define_base16 BASE05 ab 9b ab
+define_base16 BASE06 d8 ca d8
+define_base16 BASE07 f7 f3 f7
+define_base16 BASE08 ca 40 2b
+define_base16 BASE09 ca 40 2b
+define_base16 BASE0A bb 8a 35
+define_base16 BASE0B 91 8b 3b
+define_base16 BASE0C 15 93 93
+define_base16 BASE0D 51 6a ec
+define_base16 BASE0E 7b 59 c0
+define_base16 BASE0F cc 33 cc
+

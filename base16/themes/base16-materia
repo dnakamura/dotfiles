@@ -1,0 +1,18 @@
+# Materia by Defman21
+define_base16 BASE00 26 32 38
+define_base16 BASE01 2c 39 3f
+define_base16 BASE02 37 47 4f
+define_base16 BASE03 70 78 80
+define_base16 BASE04 c9 cc d3
+define_base16 BASE05 cd d3 de
+define_base16 BASE06 d5 db e5
+define_base16 BASE07 ff ff ff
+define_base16 BASE08 ec 5f 67
+define_base16 BASE09 ec 5f 67
+define_base16 BASE0A ff cc 0
+define_base16 BASE0B 8b d6 49
+define_base16 BASE0C 80 cb c4
+define_base16 BASE0D 89 dd ff
+define_base16 BASE0E 82 aa ff
+define_base16 BASE0F ec 5f 67
+

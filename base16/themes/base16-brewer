@@ -1,0 +1,18 @@
+# Brewer by Timothée Poisot (http:&#x2F;&#x2F;github.com&#x2F;tpoisot)
+define_base16 BASE00 c d e
+define_base16 BASE01 2e 2f 30
+define_base16 BASE02 51 52 53
+define_base16 BASE03 73 74 75
+define_base16 BASE04 95 96 97
+define_base16 BASE05 b7 b8 b9
+define_base16 BASE06 da db dc
+define_base16 BASE07 fc fd fe
+define_base16 BASE08 e3 1a 1c
+define_base16 BASE09 e3 1a 1c
+define_base16 BASE0A dc a0 60
+define_base16 BASE0B 31 a3 54
+define_base16 BASE0C 80 b1 d3
+define_base16 BASE0D 31 82 bd
+define_base16 BASE0E 75 6b b1
+define_base16 BASE0F b1 59 28
+

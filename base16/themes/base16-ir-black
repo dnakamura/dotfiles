@@ -1,0 +1,18 @@
+# IR Black by Timothée Poisot (http:&#x2F;&#x2F;timotheepoisot.fr)
+define_base16 BASE00 0 0 0
+define_base16 BASE01 24 24 22
+define_base16 BASE02 48 48 44
+define_base16 BASE03 6c 6c 66
+define_base16 BASE04 91 8f 88
+define_base16 BASE05 b5 b3 aa
+define_base16 BASE06 d9 d7 cc
+define_base16 BASE07 fd fb ee
+define_base16 BASE08 ff 6c 60
+define_base16 BASE09 ff 6c 60
+define_base16 BASE0A ff ff b6
+define_base16 BASE0B a8 ff 60
+define_base16 BASE0C c6 c5 fe
+define_base16 BASE0D 96 cb fe
+define_base16 BASE0E ff 73 fd
+define_base16 BASE0F b1 8a 3d
+

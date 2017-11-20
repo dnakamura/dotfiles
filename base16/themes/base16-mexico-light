@@ -1,0 +1,18 @@
+# Mexico Light by Sheldon Johnson
+define_base16 BASE00 f8 f8 f8
+define_base16 BASE01 e8 e8 e8
+define_base16 BASE02 d8 d8 d8
+define_base16 BASE03 b8 b8 b8
+define_base16 BASE04 58 58 58
+define_base16 BASE05 38 38 38
+define_base16 BASE06 28 28 28
+define_base16 BASE07 18 18 18
+define_base16 BASE08 ab 46 42
+define_base16 BASE09 ab 46 42
+define_base16 BASE0A f7 9a e
+define_base16 BASE0B 53 89 47
+define_base16 BASE0C 4b 80 93
+define_base16 BASE0D 7c af c2
+define_base16 BASE0E 96 60 9e
+define_base16 BASE0F a1 69 46
+

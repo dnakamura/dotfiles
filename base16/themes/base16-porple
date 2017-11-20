@@ -1,0 +1,18 @@
+# Porple by Niek den Breeje (https:&#x2F;&#x2F;github.com&#x2F;AuditeMarlow)
+define_base16 BASE00 29 2c 36
+define_base16 BASE01 33 33 44
+define_base16 BASE02 47 41 60
+define_base16 BASE03 65 56 8a
+define_base16 BASE04 b8 b8 b8
+define_base16 BASE05 d8 d8 d8
+define_base16 BASE06 e8 e8 e8
+define_base16 BASE07 f8 f8 f8
+define_base16 BASE08 f8 45 47
+define_base16 BASE09 f8 45 47
+define_base16 BASE0A ef a1 6b
+define_base16 BASE0B 95 c7 6f
+define_base16 BASE0C 64 87 8f
+define_base16 BASE0D 84 85 ce
+define_base16 BASE0E b7 49 89
+define_base16 BASE0F 98 68 41
+

@@ -1,0 +1,18 @@
+# OceanicNext by https:&#x2F;&#x2F;github.com&#x2F;voronianski&#x2F;oceanic-next-color-scheme
+define_base16 BASE00 1b 2b 34
+define_base16 BASE01 34 3d 46
+define_base16 BASE02 4f 5b 66
+define_base16 BASE03 65 73 7e
+define_base16 BASE04 a7 ad ba
+define_base16 BASE05 c0 c5 ce
+define_base16 BASE06 cd d3 de
+define_base16 BASE07 d8 de e9
+define_base16 BASE08 ec 5f 67
+define_base16 BASE09 ec 5f 67
+define_base16 BASE0A fa c8 63
+define_base16 BASE0B 99 c7 94
+define_base16 BASE0C 5f b3 b3
+define_base16 BASE0D 66 99 cc
+define_base16 BASE0E c5 94 c5
+define_base16 BASE0F ab 79 67
+

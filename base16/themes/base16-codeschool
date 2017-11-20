@@ -1,0 +1,18 @@
+# Codeschool by brettof86
+define_base16 BASE00 23 2c 31
+define_base16 BASE01 1c 36 57
+define_base16 BASE02 2a 34 3a
+define_base16 BASE03 3f 49 44
+define_base16 BASE04 84 89 8c
+define_base16 BASE05 9e a7 a6
+define_base16 BASE06 a7 cf a3
+define_base16 BASE07 b5 d8 f6
+define_base16 BASE08 2a 54 91
+define_base16 BASE09 2a 54 91
+define_base16 BASE0A a0 3b 1e
+define_base16 BASE0B 23 79 86
+define_base16 BASE0C b0 2f 30
+define_base16 BASE0D 48 4d 79
+define_base16 BASE0E c5 98 20
+define_base16 BASE0F c9 83 44
+

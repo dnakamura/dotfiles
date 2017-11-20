@@ -1,0 +1,18 @@
+# Classic Light by Jason Heeris (http:&#x2F;&#x2F;heeris.id.au)
+define_base16 BASE00 f5 f5 f5
+define_base16 BASE01 e0 e0 e0
+define_base16 BASE02 d0 d0 d0
+define_base16 BASE03 b0 b0 b0
+define_base16 BASE04 50 50 50
+define_base16 BASE05 30 30 30
+define_base16 BASE06 20 20 20
+define_base16 BASE07 15 15 15
+define_base16 BASE08 ac 41 42
+define_base16 BASE09 ac 41 42
+define_base16 BASE0A f4 bf 75
+define_base16 BASE0B 90 a9 59
+define_base16 BASE0C 75 b5 aa
+define_base16 BASE0D 6a 9f b5
+define_base16 BASE0E aa 75 9f
+define_base16 BASE0F 8f 55 36
+

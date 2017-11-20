@@ -1,0 +1,18 @@
+# Atelier Plateau by Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
+define_base16 BASE00 1b 18 18
+define_base16 BASE01 29 24 24
+define_base16 BASE02 58 50 50
+define_base16 BASE03 65 5d 5d
+define_base16 BASE04 7e 77 77
+define_base16 BASE05 8a 85 85
+define_base16 BASE06 e7 df df
+define_base16 BASE07 f4 ec ec
+define_base16 BASE08 ca 49 49
+define_base16 BASE09 ca 49 49
+define_base16 BASE0A a0 6e 3b
+define_base16 BASE0B 4b 8b 8b
+define_base16 BASE0C 54 85 b6
+define_base16 BASE0D 72 72 ca
+define_base16 BASE0E 84 64 c4
+define_base16 BASE0F bd 51 87
+

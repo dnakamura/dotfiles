@@ -1,0 +1,18 @@
+# XCode Dusk by Elsa Gonsiorowski (https:&#x2F;&#x2F;github.com&#x2F;gonsie)
+define_base16 BASE00 28 2b 35
+define_base16 BASE01 3d 40 48
+define_base16 BASE02 53 55 5d
+define_base16 BASE03 68 6a 71
+define_base16 BASE04 7e 80 86
+define_base16 BASE05 93 95 99
+define_base16 BASE06 a9 aa ae
+define_base16 BASE07 be bf c2
+define_base16 BASE08 b2 18 89
+define_base16 BASE09 b2 18 89
+define_base16 BASE0A 43 82 88
+define_base16 BASE0B df 0 2
+define_base16 BASE0C 0 a0 be
+define_base16 BASE0D 79 e ad
+define_base16 BASE0E b2 18 89
+define_base16 BASE0F c7 7c 48
+

@@ -1,0 +1,18 @@
+# Flat by Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
+define_base16 BASE00 2c 3e 50
+define_base16 BASE01 34 49 5e
+define_base16 BASE02 7f 8c 8d
+define_base16 BASE03 95 a5 a6
+define_base16 BASE04 bd c3 c7
+define_base16 BASE05 e0 e0 e0
+define_base16 BASE06 f5 f5 f5
+define_base16 BASE07 ec f0 f1
+define_base16 BASE08 e7 4c 3c
+define_base16 BASE09 e7 4c 3c
+define_base16 BASE0A f1 c4 f
+define_base16 BASE0B 2e cc 71
+define_base16 BASE0C 1a bc 9c
+define_base16 BASE0D 34 98 db
+define_base16 BASE0E 9b 59 b6
+define_base16 BASE0F be 64 3c
+

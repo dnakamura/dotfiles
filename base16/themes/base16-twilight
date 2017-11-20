@@ -1,0 +1,18 @@
+# Twilight by David Hart (https:&#x2F;&#x2F;github.com&#x2F;hartbit)
+define_base16 BASE00 1e 1e 1e
+define_base16 BASE01 32 35 37
+define_base16 BASE02 46 4b 50
+define_base16 BASE03 5f 5a 60
+define_base16 BASE04 83 81 84
+define_base16 BASE05 a7 a7 a7
+define_base16 BASE06 c3 c3 c3
+define_base16 BASE07 ff ff ff
+define_base16 BASE08 cf 6a 4c
+define_base16 BASE09 cf 6a 4c
+define_base16 BASE0A f9 ee 98
+define_base16 BASE0B 8f 9d 6a
+define_base16 BASE0C af c4 db
+define_base16 BASE0D 75 87 a6
+define_base16 BASE0E 9b 85 9d
+define_base16 BASE0F 9b 70 3f
+

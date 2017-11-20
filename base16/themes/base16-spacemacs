@@ -1,0 +1,18 @@
+# Spacemacs by Nasser Alshammari (https:&#x2F;&#x2F;github.com&#x2F;nashamri&#x2F;spacemacs-theme)
+define_base16 BASE00 1f 20 22
+define_base16 BASE01 28 28 28
+define_base16 BASE02 44 41 55
+define_base16 BASE03 58 58 58
+define_base16 BASE04 b8 b8 b8
+define_base16 BASE05 a3 a3 a3
+define_base16 BASE06 e8 e8 e8
+define_base16 BASE07 f8 f8 f8
+define_base16 BASE08 f2 24 1f
+define_base16 BASE09 f2 24 1f
+define_base16 BASE0A b1 95 1d
+define_base16 BASE0B 67 b1 1d
+define_base16 BASE0C 2d 95 74
+define_base16 BASE0D 4f 97 d7
+define_base16 BASE0E a3 1d b1
+define_base16 BASE0F b0 30 60
+

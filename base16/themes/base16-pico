@@ -1,0 +1,18 @@
+# Pico by PICO-8 (http:&#x2F;&#x2F;www.lexaloffle.com&#x2F;pico-8.php)
+define_base16 BASE00 0 0 0
+define_base16 BASE01 1d 2b 53
+define_base16 BASE02 7e 25 53
+define_base16 BASE03 0 87 51
+define_base16 BASE04 ab 52 36
+define_base16 BASE05 5f 57 4f
+define_base16 BASE06 c2 c3 c7
+define_base16 BASE07 ff f1 e8
+define_base16 BASE08 ff 0 4d
+define_base16 BASE09 ff 0 4d
+define_base16 BASE0A ff f0 24
+define_base16 BASE0B 0 e7 56
+define_base16 BASE0C 29 ad ff
+define_base16 BASE0D 83 76 9c
+define_base16 BASE0E ff 77 a8
+define_base16 BASE0F ff cc aa
+

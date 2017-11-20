@@ -1,0 +1,18 @@
+# Bright by Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
+define_base16 BASE00 0 0 0
+define_base16 BASE01 30 30 30
+define_base16 BASE02 50 50 50
+define_base16 BASE03 b0 b0 b0
+define_base16 BASE04 d0 d0 d0
+define_base16 BASE05 e0 e0 e0
+define_base16 BASE06 f5 f5 f5
+define_base16 BASE07 ff ff ff
+define_base16 BASE08 fb 1 20
+define_base16 BASE09 fb 1 20
+define_base16 BASE0A fd a3 31
+define_base16 BASE0B a1 c6 59
+define_base16 BASE0C 76 c7 b7
+define_base16 BASE0D 6f b3 d2
+define_base16 BASE0E d3 81 c3
+define_base16 BASE0F be 64 3c
+

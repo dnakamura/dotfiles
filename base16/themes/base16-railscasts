@@ -1,0 +1,18 @@
+# Railscasts by Ryan Bates (http:&#x2F;&#x2F;railscasts.com)
+define_base16 BASE00 2b 2b 2b
+define_base16 BASE01 27 29 35
+define_base16 BASE02 3a 40 55
+define_base16 BASE03 5a 64 7e
+define_base16 BASE04 d4 cf c9
+define_base16 BASE05 e6 e1 dc
+define_base16 BASE06 f4 f1 ed
+define_base16 BASE07 f9 f7 f3
+define_base16 BASE08 da 49 39
+define_base16 BASE09 da 49 39
+define_base16 BASE0A ff c6 6d
+define_base16 BASE0B a5 c2 61
+define_base16 BASE0C 51 9f 50
+define_base16 BASE0D 6d 9c be
+define_base16 BASE0E b6 b3 eb
+define_base16 BASE0F bc 94 58
+

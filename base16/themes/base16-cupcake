@@ -1,0 +1,18 @@
+# Cupcake by Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
+define_base16 BASE00 fb f1 f2
+define_base16 BASE01 f2 f1 f4
+define_base16 BASE02 d8 d5 dd
+define_base16 BASE03 bf b9 c6
+define_base16 BASE04 a5 9d af
+define_base16 BASE05 8b 81 98
+define_base16 BASE06 72 67 7e
+define_base16 BASE07 58 50 62
+define_base16 BASE08 d5 7e 85
+define_base16 BASE09 d5 7e 85
+define_base16 BASE0A dc b1 6c
+define_base16 BASE0B a3 b3 67
+define_base16 BASE0C 69 a9 a7
+define_base16 BASE0D 72 97 b9
+define_base16 BASE0E bb 99 b4
+define_base16 BASE0F ba a5 8c
+

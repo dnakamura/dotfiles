@@ -1,0 +1,18 @@
+# Paraiso by Jan T. Sott
+define_base16 BASE00 2f 1e 2e
+define_base16 BASE01 41 32 3f
+define_base16 BASE02 4f 42 4c
+define_base16 BASE03 77 6e 71
+define_base16 BASE04 8d 86 87
+define_base16 BASE05 a3 9e 9b
+define_base16 BASE06 b9 b6 b0
+define_base16 BASE07 e7 e9 db
+define_base16 BASE08 ef 61 55
+define_base16 BASE09 ef 61 55
+define_base16 BASE0A fe c4 18
+define_base16 BASE0B 48 b6 85
+define_base16 BASE0C 5b c4 bf
+define_base16 BASE0D 6 b6 ef
+define_base16 BASE0E 81 5b a4
+define_base16 BASE0F e9 6b a8
+

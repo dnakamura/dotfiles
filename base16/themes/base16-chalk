@@ -1,0 +1,18 @@
+# Chalk by Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
+define_base16 BASE00 15 15 15
+define_base16 BASE01 20 20 20
+define_base16 BASE02 30 30 30
+define_base16 BASE03 50 50 50
+define_base16 BASE04 b0 b0 b0
+define_base16 BASE05 d0 d0 d0
+define_base16 BASE06 e0 e0 e0
+define_base16 BASE07 f5 f5 f5
+define_base16 BASE08 fb 9f b1
+define_base16 BASE09 fb 9f b1
+define_base16 BASE0A dd b2 6f
+define_base16 BASE0B ac c2 67
+define_base16 BASE0C 12 cf c0
+define_base16 BASE0D 6f c2 ef
+define_base16 BASE0E e1 a3 ee
+define_base16 BASE0F de af 8f
+

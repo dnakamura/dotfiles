@@ -1,0 +1,18 @@
+# Atelier Savanna Light by Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
+define_base16 BASE00 ec f4 ee
+define_base16 BASE01 df e7 e2
+define_base16 BASE02 87 92 8a
+define_base16 BASE03 78 87 7d
+define_base16 BASE04 5f 6d 64
+define_base16 BASE05 52 60 57
+define_base16 BASE06 23 2a 25
+define_base16 BASE07 17 1c 19
+define_base16 BASE08 b1 61 39
+define_base16 BASE09 b1 61 39
+define_base16 BASE0A a0 7e 3b
+define_base16 BASE0B 48 99 63
+define_base16 BASE0C 1c 9a a0
+define_base16 BASE0D 47 8c 90
+define_base16 BASE0E 55 85 9b
+define_base16 BASE0F 86 74 69
+

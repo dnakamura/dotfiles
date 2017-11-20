@@ -1,0 +1,18 @@
+# PhD by Hennig Hasemann (http:&#x2F;&#x2F;leetless.de&#x2F;vim.html)
+define_base16 BASE00 6 12 29
+define_base16 BASE01 2a 34 48
+define_base16 BASE02 4d 56 66
+define_base16 BASE03 71 78 85
+define_base16 BASE04 9a 99 a3
+define_base16 BASE05 b8 bb c2
+define_base16 BASE06 db dd e0
+define_base16 BASE07 ff ff ff
+define_base16 BASE08 d0 73 46
+define_base16 BASE09 d0 73 46
+define_base16 BASE0A fb d4 61
+define_base16 BASE0B 99 bf 52
+define_base16 BASE0C 72 b9 bf
+define_base16 BASE0D 52 99 bf
+define_base16 BASE0E 99 89 cc
+define_base16 BASE0F b0 80 60
+

@@ -1,0 +1,18 @@
+# Harmonic16 Dark by Jannik Siebert (https:&#x2F;&#x2F;github.com&#x2F;janniks)
+define_base16 BASE00 b 1c 2c
+define_base16 BASE01 22 3b 54
+define_base16 BASE02 40 5c 79
+define_base16 BASE03 62 7e 99
+define_base16 BASE04 aa bc ce
+define_base16 BASE05 cb d6 e2
+define_base16 BASE06 e5 eb f1
+define_base16 BASE07 f7 f9 fb
+define_base16 BASE08 bf 8b 56
+define_base16 BASE09 bf 8b 56
+define_base16 BASE0A 8b bf 56
+define_base16 BASE0B 56 bf 8b
+define_base16 BASE0C 56 8b bf
+define_base16 BASE0D 8b 56 bf
+define_base16 BASE0E bf 56 8b
+define_base16 BASE0F bf 56 56
+

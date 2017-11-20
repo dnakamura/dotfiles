@@ -1,0 +1,18 @@
+# Atelier Lakeside by Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
+define_base16 BASE00 16 1b 1d
+define_base16 BASE01 1f 29 2e
+define_base16 BASE02 51 6d 7b
+define_base16 BASE03 5a 7b 8c
+define_base16 BASE04 71 95 a8
+define_base16 BASE05 7e a2 b4
+define_base16 BASE06 c1 e4 f6
+define_base16 BASE07 eb f8 ff
+define_base16 BASE08 d2 2d 72
+define_base16 BASE09 d2 2d 72
+define_base16 BASE0A 8a 8a f
+define_base16 BASE0B 56 8c 3b
+define_base16 BASE0C 2d 8f 6f
+define_base16 BASE0D 25 7f ad
+define_base16 BASE0E 6b 6b b8
+define_base16 BASE0F b7 2d d2
+

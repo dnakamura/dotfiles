@@ -1,0 +1,18 @@
+# Unikitty Dark by Josh W Lewis (@joshwlewis)
+define_base16 BASE00 2e 2a 31
+define_base16 BASE01 4a 46 4d
+define_base16 BASE02 66 63 69
+define_base16 BASE03 83 80 85
+define_base16 BASE04 9f 9d a2
+define_base16 BASE05 bc ba be
+define_base16 BASE06 d8 d7 da
+define_base16 BASE07 f5 f4 f7
+define_base16 BASE08 d8 13 7f
+define_base16 BASE09 d8 13 7f
+define_base16 BASE0A dc 8a e
+define_base16 BASE0B 17 ad 98
+define_base16 BASE0C 14 9b da
+define_base16 BASE0D 79 6a f5
+define_base16 BASE0E bb 60 ea
+define_base16 BASE0F c7 20 ca
+

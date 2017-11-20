@@ -1,0 +1,18 @@
+# Unikitty Light by Josh W Lewis (@joshwlewis)
+define_base16 BASE00 ff ff ff
+define_base16 BASE01 e1 e1 e2
+define_base16 BASE02 c4 c3 c5
+define_base16 BASE03 a7 a5 a8
+define_base16 BASE04 89 87 8b
+define_base16 BASE05 6c 69 6e
+define_base16 BASE06 4f 4b 51
+define_base16 BASE07 32 2d 34
+define_base16 BASE08 d8 13 7f
+define_base16 BASE09 d8 13 7f
+define_base16 BASE0A dc 8a e
+define_base16 BASE0B 17 ad 98
+define_base16 BASE0C 14 9b da
+define_base16 BASE0D 77 5d ff
+define_base16 BASE0E aa 17 e6
+define_base16 BASE0F e0 13 d0
+

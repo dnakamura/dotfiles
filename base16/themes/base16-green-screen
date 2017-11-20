@@ -1,0 +1,18 @@
+# Green Screen by Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
+define_base16 BASE00 0 11 0
+define_base16 BASE01 0 33 0
+define_base16 BASE02 0 55 0
+define_base16 BASE03 0 77 0
+define_base16 BASE04 0 99 0
+define_base16 BASE05 0 bb 0
+define_base16 BASE06 0 dd 0
+define_base16 BASE07 0 ff 0
+define_base16 BASE08 0 77 0
+define_base16 BASE09 0 77 0
+define_base16 BASE0A 0 77 0
+define_base16 BASE0B 0 bb 0
+define_base16 BASE0C 0 55 0
+define_base16 BASE0D 0 99 0
+define_base16 BASE0E 0 bb 0
+define_base16 BASE0F 0 55 0
+

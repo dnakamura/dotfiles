@@ -1,0 +1,18 @@
+# London Tube by Jan T. Sott
+define_base16 BASE00 23 1f 20
+define_base16 BASE01 1c 3f 95
+define_base16 BASE02 5a 57 58
+define_base16 BASE03 73 71 71
+define_base16 BASE04 95 9c a1
+define_base16 BASE05 d9 d8 d8
+define_base16 BASE06 e7 e7 e8
+define_base16 BASE07 ff ff ff
+define_base16 BASE08 ee 2e 24
+define_base16 BASE09 ee 2e 24
+define_base16 BASE0A ff d2 4
+define_base16 BASE0B 0 85 3e
+define_base16 BASE0C 85 ce bc
+define_base16 BASE0D 0 9d dc
+define_base16 BASE0E 98 0 5d
+define_base16 BASE0F b0 61 10
+

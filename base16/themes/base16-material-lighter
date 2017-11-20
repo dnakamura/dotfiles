@@ -1,0 +1,18 @@
+# Material Lighter by Nate Peterson
+define_base16 BASE00 fa fa fa
+define_base16 BASE01 e7 ea ec
+define_base16 BASE02 cc ea e7
+define_base16 BASE03 cc d7 da
+define_base16 BASE04 87 96 b0
+define_base16 BASE05 80 cb c4
+define_base16 BASE06 80 cb c4
+define_base16 BASE07 ff ff ff
+define_base16 BASE08 ff 53 70
+define_base16 BASE09 ff 53 70
+define_base16 BASE0A ff b6 2c
+define_base16 BASE0B 91 b8 59
+define_base16 BASE0C 39 ad b5
+define_base16 BASE0D 61 82 b8
+define_base16 BASE0E 7c 4d ff
+define_base16 BASE0F e5 39 35
+

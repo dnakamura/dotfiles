@@ -1,0 +1,18 @@
+# Mocha by Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
+define_base16 BASE00 3b 32 28
+define_base16 BASE01 53 46 36
+define_base16 BASE02 64 52 40
+define_base16 BASE03 7e 70 5a
+define_base16 BASE04 b8 af ad
+define_base16 BASE05 d0 c8 c6
+define_base16 BASE06 e9 e1 dd
+define_base16 BASE07 f5 ee eb
+define_base16 BASE08 cb 60 77
+define_base16 BASE09 cb 60 77
+define_base16 BASE0A f4 bc 87
+define_base16 BASE0B be b5 5b
+define_base16 BASE0C 7b bd a4
+define_base16 BASE0D 8a b3 b5
+define_base16 BASE0E a8 9b b9
+define_base16 BASE0F bb 95 84
+

@@ -1,0 +1,18 @@
+# Pop by Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
+define_base16 BASE00 0 0 0
+define_base16 BASE01 20 20 20
+define_base16 BASE02 30 30 30
+define_base16 BASE03 50 50 50
+define_base16 BASE04 b0 b0 b0
+define_base16 BASE05 d0 d0 d0
+define_base16 BASE06 e0 e0 e0
+define_base16 BASE07 ff ff ff
+define_base16 BASE08 eb 0 8a
+define_base16 BASE09 eb 0 8a
+define_base16 BASE0A f8 ca 12
+define_base16 BASE0B 37 b3 49
+define_base16 BASE0C 0 aa bb
+define_base16 BASE0D e 5a 94
+define_base16 BASE0E b3 1e 8d
+define_base16 BASE0F 7a 2d 0
+

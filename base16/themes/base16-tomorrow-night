@@ -1,0 +1,18 @@
+# Tomorrow Night by Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
+define_base16 BASE00 1d 1f 21
+define_base16 BASE01 28 2a 2e
+define_base16 BASE02 37 3b 41
+define_base16 BASE03 96 98 96
+define_base16 BASE04 b4 b7 b4
+define_base16 BASE05 c5 c8 c6
+define_base16 BASE06 e0 e0 e0
+define_base16 BASE07 ff ff ff
+define_base16 BASE08 cc 66 66
+define_base16 BASE09 cc 66 66
+define_base16 BASE0A f0 c6 74
+define_base16 BASE0B b5 bd 68
+define_base16 BASE0C 8a be b7
+define_base16 BASE0D 81 a2 be
+define_base16 BASE0E b2 94 bb
+define_base16 BASE0F a3 68 5a
+

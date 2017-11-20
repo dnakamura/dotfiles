@@ -1,0 +1,18 @@
+# Solar Flare by Chuck Harmston (https:&#x2F;&#x2F;chuck.harmston.ch)
+define_base16 BASE00 18 26 2f
+define_base16 BASE01 22 2e 38
+define_base16 BASE02 58 68 75
+define_base16 BASE03 66 75 81
+define_base16 BASE04 85 93 9e
+define_base16 BASE05 a6 af b8
+define_base16 BASE06 e8 e9 ed
+define_base16 BASE07 f5 f7 fa
+define_base16 BASE08 ef 52 53
+define_base16 BASE09 ef 52 53
+define_base16 BASE0A e4 b5 1c
+define_base16 BASE0B 7c c8 44
+define_base16 BASE0C 52 cb b0
+define_base16 BASE0D 33 b5 e1
+define_base16 BASE0E a3 63 d5
+define_base16 BASE0F d7 3c 9a
+

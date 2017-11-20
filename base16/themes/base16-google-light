@@ -1,0 +1,18 @@
+# Google Light by Seth Wright (http:&#x2F;&#x2F;sethawright.com)
+define_base16 BASE00 ff ff ff
+define_base16 BASE01 e0 e0 e0
+define_base16 BASE02 c5 c8 c6
+define_base16 BASE03 b4 b7 b4
+define_base16 BASE04 96 98 96
+define_base16 BASE05 37 3b 41
+define_base16 BASE06 28 2a 2e
+define_base16 BASE07 1d 1f 21
+define_base16 BASE08 cc 34 2b
+define_base16 BASE09 cc 34 2b
+define_base16 BASE0A fb a9 22
+define_base16 BASE0B 19 88 44
+define_base16 BASE0C 39 71 ed
+define_base16 BASE0D 39 71 ed
+define_base16 BASE0E a3 6a c7
+define_base16 BASE0F 39 71 ed
+

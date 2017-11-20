@@ -1,0 +1,18 @@
+# Circus by Stephan Boyer (https:&#x2F;&#x2F;github.com&#x2F;stepchowfun) and Esther Wang (https:&#x2F;&#x2F;github.com&#x2F;ewang12)
+define_base16 BASE00 19 19 19
+define_base16 BASE01 20 20 20
+define_base16 BASE02 30 30 30
+define_base16 BASE03 5f 5a 60
+define_base16 BASE04 50 50 50
+define_base16 BASE05 a7 a7 a7
+define_base16 BASE06 80 80 80
+define_base16 BASE07 ff ff ff
+define_base16 BASE08 dc 65 7d
+define_base16 BASE09 dc 65 7d
+define_base16 BASE0A c3 ba 63
+define_base16 BASE0B 84 b9 7c
+define_base16 BASE0C 4b b1 a7
+define_base16 BASE0D 63 9e e4
+define_base16 BASE0E b8 88 e2
+define_base16 BASE0F b8 88 e2
+

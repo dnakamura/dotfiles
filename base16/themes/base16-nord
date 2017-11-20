@@ -1,0 +1,18 @@
+# Nord by arcticicestudio
+define_base16 BASE00 2e 34 40
+define_base16 BASE01 3b 42 52
+define_base16 BASE02 43 4c 5e
+define_base16 BASE03 4c 56 6a
+define_base16 BASE04 d8 de e9
+define_base16 BASE05 e5 e9 f0
+define_base16 BASE06 ec ef f4
+define_base16 BASE07 8f bc bb
+define_base16 BASE08 88 c0 d0
+define_base16 BASE09 88 c0 d0
+define_base16 BASE0A 5e 81 ac
+define_base16 BASE0B bf 61 6a
+define_base16 BASE0C d0 87 70
+define_base16 BASE0D eb cb 8b
+define_base16 BASE0E a3 be 8c
+define_base16 BASE0F b4 8e ad
+

@@ -1,0 +1,18 @@
+# Embers by Jannik Siebert (https:&#x2F;&#x2F;github.com&#x2F;janniks)
+define_base16 BASE00 16 13 f
+define_base16 BASE01 2c 26 20
+define_base16 BASE02 43 3b 32
+define_base16 BASE03 5a 50 47
+define_base16 BASE04 8a 80 75
+define_base16 BASE05 a3 9a 90
+define_base16 BASE06 be b6 ae
+define_base16 BASE07 db d6 d1
+define_base16 BASE08 82 6d 57
+define_base16 BASE09 82 6d 57
+define_base16 BASE0A 6d 82 57
+define_base16 BASE0B 57 82 6d
+define_base16 BASE0C 57 6d 82
+define_base16 BASE0D 6d 57 82
+define_base16 BASE0E 82 57 6d
+define_base16 BASE0F 82 57 57
+

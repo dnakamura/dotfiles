@@ -1,0 +1,18 @@
+# Eighties by Chris Kempson (http:&#x2F;&#x2F;chriskempson.com)
+define_base16 BASE00 2d 2d 2d
+define_base16 BASE01 39 39 39
+define_base16 BASE02 51 51 51
+define_base16 BASE03 74 73 69
+define_base16 BASE04 a0 9f 93
+define_base16 BASE05 d3 d0 c8
+define_base16 BASE06 e8 e6 df
+define_base16 BASE07 f2 f0 ec
+define_base16 BASE08 f2 77 7a
+define_base16 BASE09 f2 77 7a
+define_base16 BASE0A ff cc 66
+define_base16 BASE0B 99 cc 99
+define_base16 BASE0C 66 cc cc
+define_base16 BASE0D 66 99 cc
+define_base16 BASE0E cc 99 cc
+define_base16 BASE0F d2 7b 53
+

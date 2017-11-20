@@ -1,0 +1,18 @@
+# Seti UI by 
+define_base16 BASE00 15 17 18
+define_base16 BASE01 28 2a 2b
+define_base16 BASE02 3b 75 8c
+define_base16 BASE03 41 53 5b
+define_base16 BASE04 43 a5 d5
+define_base16 BASE05 d6 d6 d6
+define_base16 BASE06 ee ee ee
+define_base16 BASE07 ff ff ff
+define_base16 BASE08 cd 3f 45
+define_base16 BASE09 cd 3f 45
+define_base16 BASE0A e6 cd 69
+define_base16 BASE0B 9f ca 56
+define_base16 BASE0C 55 db be
+define_base16 BASE0D 55 b5 db
+define_base16 BASE0E a0 74 c4
+define_base16 BASE0F 8a 55 3f
+

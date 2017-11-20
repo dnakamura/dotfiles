@@ -1,0 +1,18 @@
+# One Light by Daniel Pfeifer (http:&#x2F;&#x2F;github.com&#x2F;purpleKarrot)
+define_base16 BASE00 fa fa fa
+define_base16 BASE01 f0 f0 f1
+define_base16 BASE02 e5 e5 e6
+define_base16 BASE03 a0 a1 a7
+define_base16 BASE04 69 6c 77
+define_base16 BASE05 38 3a 42
+define_base16 BASE06 20 22 27
+define_base16 BASE07 9 a b
+define_base16 BASE08 ca 12 43
+define_base16 BASE09 ca 12 43
+define_base16 BASE0A c1 84 1
+define_base16 BASE0B 50 a1 4f
+define_base16 BASE0C 1 84 bc
+define_base16 BASE0D 40 78 f2
+define_base16 BASE0E a6 26 a4
+define_base16 BASE0F 98 68 1
+

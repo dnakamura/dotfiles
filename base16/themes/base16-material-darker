@@ -1,0 +1,18 @@
+# Material Darker by Nate Peterson
+define_base16 BASE00 21 21 21
+define_base16 BASE01 30 30 30
+define_base16 BASE02 35 35 35
+define_base16 BASE03 4a 4a 4a
+define_base16 BASE04 b2 cc d6
+define_base16 BASE05 ee ff ff
+define_base16 BASE06 ee ff ff
+define_base16 BASE07 ff ff ff
+define_base16 BASE08 f0 71 78
+define_base16 BASE09 f0 71 78
+define_base16 BASE0A ff cb 6b
+define_base16 BASE0B c3 e8 8d
+define_base16 BASE0C 89 dd ff
+define_base16 BASE0D 82 aa ff
+define_base16 BASE0E c7 92 ea
+define_base16 BASE0F ff 53 70
+

@@ -1,0 +1,18 @@
+# Zenburn by elnawe
+define_base16 BASE00 3f 3f 3f
+define_base16 BASE01 40 40 40
+define_base16 BASE02 60 60 60
+define_base16 BASE03 4f 4f 4f
+define_base16 BASE04 80 80 80
+define_base16 BASE05 dc dc cc
+define_base16 BASE06 c0 c0 c0
+define_base16 BASE07 ff ff ff
+define_base16 BASE08 dc a3 a3
+define_base16 BASE09 dc a3 a3
+define_base16 BASE0A e0 cf 9f
+define_base16 BASE0B 5f 7f 5f
+define_base16 BASE0C 93 e0 e3
+define_base16 BASE0D 7c b8 bb
+define_base16 BASE0E dc 8c c3
+define_base16 BASE0F 0 0 0
+

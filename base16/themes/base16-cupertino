@@ -1,0 +1,18 @@
+# Cupertino by Defman21
+define_base16 BASE00 ff ff ff
+define_base16 BASE01 c0 c0 c0
+define_base16 BASE02 c0 c0 c0
+define_base16 BASE03 80 80 80
+define_base16 BASE04 80 80 80
+define_base16 BASE05 40 40 40
+define_base16 BASE06 40 40 40
+define_base16 BASE07 5e 5e 5e
+define_base16 BASE08 c4 1a 15
+define_base16 BASE09 c4 1a 15
+define_base16 BASE0A 82 6b 28
+define_base16 BASE0B 0 74 0
+define_base16 BASE0C 31 84 95
+define_base16 BASE0D 0 0 ff
+define_base16 BASE0E a9 d 91
+define_base16 BASE0F 82 6b 28
+

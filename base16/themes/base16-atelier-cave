@@ -1,0 +1,18 @@
+# Atelier Cave by Bram de Haan (http:&#x2F;&#x2F;atelierbramdehaan.nl)
+define_base16 BASE00 19 17 1c
+define_base16 BASE01 26 23 2a
+define_base16 BASE02 58 52 60
+define_base16 BASE03 65 5f 6d
+define_base16 BASE04 7e 78 87
+define_base16 BASE05 8b 87 92
+define_base16 BASE06 e2 df e7
+define_base16 BASE07 ef ec f4
+define_base16 BASE08 be 46 78
+define_base16 BASE09 be 46 78
+define_base16 BASE0A a0 6e 3b
+define_base16 BASE0B 2a 92 92
+define_base16 BASE0C 39 8b c6
+define_base16 BASE0D 57 6d db
+define_base16 BASE0E 95 5a e7
+define_base16 BASE0F bf 40 bf
+

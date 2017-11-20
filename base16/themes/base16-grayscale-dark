@@ -1,0 +1,18 @@
+# Grayscale Dark by Alexandre Gavioli (https:&#x2F;&#x2F;github.com&#x2F;Alexx2&#x2F;)
+define_base16 BASE00 10 10 10
+define_base16 BASE01 25 25 25
+define_base16 BASE02 46 46 46
+define_base16 BASE03 52 52 52
+define_base16 BASE04 ab ab ab
+define_base16 BASE05 b9 b9 b9
+define_base16 BASE06 e3 e3 e3
+define_base16 BASE07 f7 f7 f7
+define_base16 BASE08 7c 7c 7c
+define_base16 BASE09 7c 7c 7c
+define_base16 BASE0A a0 a0 a0
+define_base16 BASE0B 8e 8e 8e
+define_base16 BASE0C 86 86 86
+define_base16 BASE0D 68 68 68
+define_base16 BASE0E 74 74 74
+define_base16 BASE0F 5e 5e 5e
+

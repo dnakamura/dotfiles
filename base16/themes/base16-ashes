@@ -1,0 +1,18 @@
+# Ashes by Jannik Siebert (https:&#x2F;&#x2F;github.com&#x2F;janniks)
+define_base16 BASE00 1c 20 23
+define_base16 BASE01 39 3f 45
+define_base16 BASE02 56 5e 65
+define_base16 BASE03 74 7c 84
+define_base16 BASE04 ad b3 ba
+define_base16 BASE05 c7 cc d1
+define_base16 BASE06 df e2 e5
+define_base16 BASE07 f3 f4 f5
+define_base16 BASE08 c7 ae 95
+define_base16 BASE09 c7 ae 95
+define_base16 BASE0A ae c7 95
+define_base16 BASE0B 95 c7 ae
+define_base16 BASE0C 95 ae c7
+define_base16 BASE0D ae 95 c7
+define_base16 BASE0E c7 95 ae
+define_base16 BASE0F c7 95 95
+

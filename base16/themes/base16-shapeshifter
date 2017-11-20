@@ -1,0 +1,18 @@
+# Shapeshifter by Tyler Benziger (http:&#x2F;&#x2F;tybenz.com)
+define_base16 BASE00 f9 f9 f9
+define_base16 BASE01 e0 e0 e0
+define_base16 BASE02 ab ab ab
+define_base16 BASE03 55 55 55
+define_base16 BASE04 34 34 34
+define_base16 BASE05 10 20 15
+define_base16 BASE06 4 4 4
+define_base16 BASE07 0 0 0
+define_base16 BASE08 e9 2f 2f
+define_base16 BASE09 e9 2f 2f
+define_base16 BASE0A dd dd 13
+define_base16 BASE0B e d8 39
+define_base16 BASE0C 23 ed da
+define_base16 BASE0D 3b 48 e3
+define_base16 BASE0E f9 96 e2
+define_base16 BASE0F 69 54 2d
+
