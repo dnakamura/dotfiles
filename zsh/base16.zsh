@@ -80,6 +80,9 @@ hex_to_tput(){
 	echo $(((16#$1)*1000/255))
 }
 
+hex_to_dec(){
+	echo $((16#$1))
+}
 set_background(){
 	if [ "${TERM%%-*}" = "putty" ]; then
 		echo -e "\e[$1=G"
@@ -104,7 +107,12 @@ set_foreground(){
 define_base16(){
 	# TODO need to validate $1
 	tput initc $(eval "echo \${$1}") $(hex_to_tput $2) $(hex_to_tput $3) $(hex_to_tput $4)
+	prompt_def=$(printf "%%{\x1b[38;2;%d;%d;%dm%%}" $(hex_to_dec $2) $(hex_to_dec $3) $(hex_to_dec $4))
+	#eval $1_TEST=$(printf "%%{\x1b[38;2;%d;%d;%dm%%}" $(hex_to_tput $2) $(hex_to_tput $3) $(hex_to_tput $4))
 
+	def_name="$1_PROMPT"
+
+	eval $def_name='$prompt_def'
 	if [ "x$1" = "xBASE05" ] ; then
 		#fore ground
 		#echo foreground

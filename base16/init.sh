@@ -14,5 +14,6 @@ set-colorscheme() {
 	fi
 
 	export BASE16_THEME=$theme_name
-	$BASE16_DIR/set_theme.sh $theme_name
+	#$BASE16_DIR/set_theme.sh $theme_name
+	source "$BASE16_DIR/themes/$theme_name"
 }
