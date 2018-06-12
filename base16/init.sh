@@ -4,7 +4,7 @@ export BASE16_DIR="$(dirname $(readlink -f $0))"
 
 if [[ $TERM == putty* ]] ; then
 	BASE01_PROMPT=
-	$BASE16_DIR/set_theme.sh $theme_name
+	$BASE16_DIR/set_theme.sh monokai 
 fi
 set-colorscheme() {
 	theme_name=$1
