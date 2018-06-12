@@ -41,3 +41,6 @@ set-colorscheme() {
 		source "$BASE16_DIR/themes/$theme_name"
 	fi
 }
+demo-colorscheme(){
+	$BASE16_DIR/demo.sh $1
+}

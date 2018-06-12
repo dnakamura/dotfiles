@@ -1,5 +1,5 @@
-#compdef _set-colorscheme set-colorscheme demo-colorscheme=set-colorscheme
-function _set-colorscheme {
+#compdef _demo-colorscheme demo-colorscheme
+function _demo-colorscheme {
 	local -a themes
 	local -a raw_themes=( $(find ~/.dotfiles/base16/themes -type f -printf "%P\n"))
 
@@ -7,6 +7,6 @@ function _set-colorscheme {
 		themes+="${theme#base16-}"
 	done
 
-	#_describe 'set-colorscheme' themes
+	#_describe 'demo-colorscheme' themes
 	compadd -a themes
 }

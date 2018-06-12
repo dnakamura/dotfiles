@@ -25,3 +25,5 @@ source "$ZDOTDIR/prompt.zsh"
 source "$ZDOTDIR/colored-man-pages.zsh"
 
 source "$ZDOTDIR/syntax-highlighting.zsh"
+
+compdef _set-colorscheme demo-colorscheme

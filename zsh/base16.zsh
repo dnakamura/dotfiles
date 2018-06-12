@@ -106,6 +106,7 @@ set_foreground(){
 # 4 - b (0-FF)
 define_base16(){
 	# TODO need to validate $1
+	defined_color=$(eval "echo \${$1}")
 	tput initc $(eval "echo \${$1}") $(hex_to_tput $2) $(hex_to_tput $3) $(hex_to_tput $4)
 	prompt_def=$(printf "%%{\x1b[38;2;%d;%d;%dm%%}" $(hex_to_dec $2) $(hex_to_dec $3) $(hex_to_dec $4))
 	#eval $1_TEST=$(printf "%%{\x1b[38;2;%d;%d;%dm%%}" $(hex_to_tput $2) $(hex_to_tput $3) $(hex_to_tput $4))
@@ -121,6 +122,9 @@ define_base16(){
 	if [ "x$1" = "xBASE00" ]; then
 		#background
 		#iecho background
+	fi
+	if [ $defined_color -ge 1 ] && [ $defined_color -le 7 ]; then
+		tput initc `expr $defined_color + 8`  $(hex_to_tput $2) $(hex_to_tput $3) $(hex_to_tput $4)
 	fi
 }
 
