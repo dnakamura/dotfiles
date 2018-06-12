@@ -16,14 +16,24 @@ dotfiles_install(){
 	fi
 
 	local full_link_target=$(readlink -f -n $link_target)
-	if [ -e "$link_name" ]; then
-		# the place we want to install the link exists. Check if we have already installed it
-		if [ -h "$link_name" ]; then
-			if [ "$(readlink -f -n $link_name)" = "$full_link_target" ]; then
-				# link_name already exists, but it points to link_target, so we are good
-				return 0
-			fi
+	# the place we want to install the link exists. Check if we have already installed it
+	if [ -h "$link_name" ]; then
+		if [ "$(readlink -f -n $link_name)" = "$full_link_target" ]; then
+			# link_name already exists, but it points to link_target, so we are good
+			return 0
 		fi
+		case $(readlink -f -n $link_name) in
+			${DOTFILES_DIR}* )
+				# update a symlink from an old install
+				rm ${link_name}
+				ln -s "$link_target" "$link_name"
+				return 0
+				;;
+		esac
+		echo "ERROR: could not install $(readlink -f -n $link_target) to $link_name."
+		echo -e "\t$link_name already exists"
+		return 1
+	elif [ -h "$link_name" ]; then
 		# link_name exists, and either isnt a symlink, or doesnt point to link_target
 		echo "ERROR: could not install $(readlink -f -n $link_target) to $link_name."
 		echo -e "\t$link_name already exists"
