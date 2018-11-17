@@ -1,0 +1,4 @@
+windows-wsl|Windows WSL terminal,
+	khome=\E[H,
+	kend=\E[F,
+	use=xterm-256color,
