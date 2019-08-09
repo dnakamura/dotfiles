@@ -11,6 +11,9 @@ bindkey -e
 # Needed for bash on windows
 umask 022
 
+# disable ctrl-s flow control
+stty -ixon
+
 source "$ZDOTDIR/base16.zsh"
 source ~/.dotfiles/base16/init.sh
 fpath=( ~/.dotfiles/base16/zsh $fpath)
