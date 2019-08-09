@@ -3,6 +3,7 @@ call plug#begin('~/.vim/plugged')
 Plug '~/.vim/plugins/vim-airline'
 Plug '~/.vim/plugins/vim-airline-themes'
 Plug '~/.vim/plugins/nerdtree'
+Plug '~/.vim/plugins/ctrlp'
 call plug#end()
 
 " set nocompatable
