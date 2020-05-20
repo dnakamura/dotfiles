@@ -23,6 +23,7 @@ source "$ZDOTDIR/setopt.zsh"
 source "$ZDOTDIR/completions.zsh"
 #zstyle :compinstall filename "$ZDOTDIR/.zshrc" 
 source "$ZDOTDIR/prompt.zsh"
+source "$ZDOTDIR/keyboard.zsh"
 
 
 source "$ZDOTDIR/colored-man-pages.zsh"
